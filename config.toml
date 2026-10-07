@@ -13,6 +13,7 @@ software = "Software"
 code = "Code"
 other = "Other"
 duplicates = "Duplicates"
+reports = "Reports"
 
 [organize]
 collision = "number"
@@ -36,6 +37,10 @@ pptx = "documents/Slides"
 odp = "documents/Slides"
 txt = "documents/Text"
 md = "documents/Text"
+"report.html" = "reports"
+"brismarp.report.html" = "reports/Brismarp"
+"ordentus.report.html" = "reports/Ordentus"
+"up.report.html" = "reports/Up"
 
 jpg = "pictures"
 jpeg = "pictures"
